@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "sofiapro-light";
+  background-color: #15151e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@font-face {
+  font-family: "sofiapro-light";
+  src: url(fonts/sofiapro-light.otf);
+}
